@@ -2,7 +2,7 @@
 % Please edit documentation in R/foofy.R
 \name{foofy}
 \alias{foofy}
-\title{Very exciting function}
+\title{Very just function}
 \usage{
 foofy(x)
 }
@@ -13,9 +13,15 @@ foofy(x)
 A character vector
 }
 \description{
-You know \code{\link[=blarg]{blarg()}} is also a very interesting function.
-Let's link to \code{\link[rlang:abort]{rlang::inform()}}.
-Here is one of my dogs: \figure{toby.jpeg}{Toby}
+\ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#experimental}{\figure{lifecycle-experimental.svg}{options: alt='[Experimental]'}}}{\strong{[Experimental]}}
+You know \code{\link[=blarg]{blarg()}} is also a very interesting function. Let's link to
+\code{\link[rlang:abort]{rlang::inform()}}. Here is one of my dogs:
+
+\figure{toby.jpeg}{Toby}
+
+And here's both dogs sharing their bed:
+
+\figure{two-dogs.jpeg}{Toby}
 }
 \examples{
 foofy()

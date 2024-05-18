@@ -2,7 +2,7 @@
 % Please edit documentation in R/foofy.R
 \name{blarg}
 \alias{blarg}
-\title{A relaxing function}
+\title{A skimpy function}
 \usage{
 blarg(x)
 }
@@ -14,7 +14,9 @@ A character vector
 }
 \description{
 Have you considered using \code{\link[=foofy]{foofy()}}? Here is another one of my
-dogs: \figure{freyja.jpeg}{Freyja}
+dogs:
+
+\figure{freyja.jpeg}{Freyja}
 }
 \examples{
 blarg()
