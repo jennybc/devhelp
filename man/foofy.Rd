@@ -13,9 +13,9 @@ foofy(x)
 A character vector
 }
 \description{
-\ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#experimental}{\figure{lifecycle-experimental.svg}{options: alt='[Experimental]'}}}{\strong{[Experimental]}}
-You know \code{\link[=blarg]{blarg()}} is also a very interesting function. Let's link to
-\code{\link[rlang:abort]{rlang::inform()}}. Here is one of my dogs:
+\ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#experimental}{\figure{lifecycle-experimental.svg}{options: alt='[Experimental]'}}}{\strong{[Experimental]}} You know \code{\link[=blarg]{blarg()}} is also
+a very interesting function. Sometimes we link to help topics in other
+such as \code{\link[rlang:abort]{rlang::inform()}} or \code{\link[rlang:names2]{rlang::names2()}}. Here is one of my dogs:
 
 \figure{toby.jpeg}{Toby}
 

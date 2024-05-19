@@ -1,8 +1,8 @@
 #' Very just function
 #'
 #' @description `r lifecycle::badge("experimental")` You know [blarg()] is also
-#' a very interesting function. Let's link to [rlang::inform()]. Here is one of
-#' my dogs:
+#' a very interesting function. Sometimes we link to help topics in other
+#' such as [rlang::inform()] or [rlang::names2()]. Here is one of my dogs:
 #'
 #' ![](toby.jpeg "Toby")
 #'
