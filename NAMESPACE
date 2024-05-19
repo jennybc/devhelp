@@ -2,4 +2,5 @@
 
 export(blarg)
 export(foofy)
+export(garply)
 importFrom(lifecycle,deprecated)
