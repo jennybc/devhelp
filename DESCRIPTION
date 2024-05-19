@@ -11,3 +11,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1.9000
 Imports: 
     lifecycle
+URL: https://github.com/jennybc/devhelp
+BugReports: https://github.com/jennybc/devhelp/issues
