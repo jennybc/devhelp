@@ -1,11 +1,14 @@
-#' Very just function
+#' Very elaborate function
 #'
 #' @description
 #' `r lifecycle::badge("experimental")`
 #'
 #' You know [blarg()] is also a very interesting function. Sometimes we link to
 #' help topics in other packages, such as [rlang::inform()] or
-#' [rlang::names2()]. Here is one of my dogs:
+#' [rlang::names2()]. Or perhaps even topics in one of the base packages, such
+#' [merge()] or [Rd2HTML()].
+#'
+#' Here's a photo of one of my dogs:
 #'
 #' ![](toby.jpeg "Toby")
 #'

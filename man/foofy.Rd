@@ -2,7 +2,7 @@
 % Please edit documentation in R/foofy.R
 \name{foofy}
 \alias{foofy}
-\title{Very just function}
+\title{Very elaborate function}
 \usage{
 foofy(x)
 }
@@ -17,7 +17,10 @@ A character vector
 
 You know \code{\link[=blarg]{blarg()}} is also a very interesting function. Sometimes we link to
 help topics in other packages, such as \code{\link[rlang:abort]{rlang::inform()}} or
-\code{\link[rlang:names2]{rlang::names2()}}. Here is one of my dogs:
+\code{\link[rlang:names2]{rlang::names2()}}. Or perhaps even topics in one of the base packages, such
+\code{\link[=merge]{merge()}} or \code{\link[=Rd2HTML]{Rd2HTML()}}.
+
+Here's a photo of one of my dogs:
 
 \figure{toby.jpeg}{Toby}
 
